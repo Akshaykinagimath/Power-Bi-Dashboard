@@ -4,7 +4,11 @@ SuperStore Sales Dashboard 📊
 
 An interactive Power BI dashboard designed to track, analyze, and optimize retail sales performance. This dashboard transforms transactional data into actionable insights covering profitability, operational efficiency, and regional performance trends
 
-The goal of this project is to transform sales data into meaningful visual insights that support data-driven business decisions.
+The goal of this project is to transform sales data into meaningful visual insights that support data-driven business decisions
+
+<img width="905" height="509" alt="image" src="https://github.com/user-attachments/assets/7fde0d7f-3056-4900-916d-30a9ccaa1cce" />
+
+
 
 Key Performance Indicators (KPIs)
 
