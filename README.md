@@ -6,8 +6,10 @@ An interactive Power BI dashboard designed to track, analyze, and optimize retai
 
 The goal of this project is to transform sales data into meaningful visual insights that support data-driven business decisions
 
+
 <img width="905" height="509" alt="image" src="https://github.com/user-attachments/assets/7fde0d7f-3056-4900-916d-30a9ccaa1cce" />
 
+<img width="904" height="500" alt="image" src="https://github.com/user-attachments/assets/f1f2fc82-6d16-4985-91ba-17170d7d6b38" />
 
 
 Key Performance Indicators (KPIs)
